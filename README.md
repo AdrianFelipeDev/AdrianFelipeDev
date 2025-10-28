@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/AdrianFelipeDev/AdrianFelipeDev]/main/assets/adrian-felipe-github-banner.png" alt="Banner de perfil de Adrian Felipe">
 </div>
 
+![My banner](assets/adrian-felipe-github-banner.png)
+
 ### 🛠️ My Tech Stack
 
 Here are the main tools and technologies I work with.
