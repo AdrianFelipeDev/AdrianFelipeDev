@@ -2,27 +2,6 @@
   <img src="https://i.postimg.cc/VL3S370n/banner.png)](https://postimg.cc/BXBQFBgn" alt="Banner" width="100%">
 </div>
 
-[![banner.png](https://i.postimg.cc/VL3S370n/banner.png)](https://postimg.cc/BXBQFBgn)
-
-<div align="center">
-  <img src="./assets/adrian-felipe-github-banner.png" alt="Banner" width="100%">
-</div>
-
-<div align="center">
-  <img src="assets/adrian-felipe-github-banner.png" alt="Banner" width="100%">
-</div>
-
-<div align="center">
-  <img src="./assets/adrian-felipe-github-banner" alt="Banner" width="100%">
-</div>
-
-<div align="center">
-  <img src="assets/adrian-felipe-github-banner" alt="Banner" width="100%">
-</div>
-
-
-![My banner](assets/adrian-felipe-github-banner.png)
-
 ### 🛠️ My Tech Stack
 
 Here are the main tools and technologies I work with.
@@ -62,7 +41,7 @@ Here are the main tools and technologies I work with.
 I'm always open to chatting about new projects, opportunities, or just tech in general!
 
 <div align="center">
-  <a href="mailto:[YOUR-EMAIL@gmail.com]">
+  <a href="mailto:[adrianfelipe.dev@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"/>
   </a>
 </div>
