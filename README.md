@@ -1,6 +1,23 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdrianFelipeDev/AdrianFelipeDev]/main/assets/adrian-felipe-github-banner.png" alt="Banner de perfil de Adrian Felipe">
+  <img src="https://raw.githubusercontent.com/AdrianFelipeDev/AdrianFelipeDev]/main/assets/adrian-felipe-github-banner.png" alt="Banner" width="100%">
 </div>
+
+<div align="center">
+  <img src="./assets/adrian-felipe-github-banner.png" alt="Banner" width="100%">
+</div>
+
+<div align="center">
+  <img src="assets/adrian-felipe-github-banner.png" alt="Banner" width="100%">
+</div>
+
+<div align="center">
+  <img src="./assets/adrian-felipe-github-banner" alt="Banner" width="100%">
+</div>
+
+<div align="center">
+  <img src="assets/adrian-felipe-github-banner" alt="Banner" width="100%">
+</div>
+
 
 ![My banner](assets/adrian-felipe-github-banner.png)
 
